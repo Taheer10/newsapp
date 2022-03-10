@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Violences au Mexique : les premières sanctions sont tombées après les rixes",
+      "description": "Amendes, huis clos, interdictions de déplacements... Les premières sanctions ont été dévoilées mardi soir par la Fédération de football mexicain après les violentes rixes qui ont eu lieu samedi lors de la rencontre opposant les clubs de Querétaro et de Guadal…",
+      "url": "https://www.lequipe.fr/Football/Actualites/Violences-au-mexique-les-premieres-sanctions-sont-tombees-apres-les-rixes/1321016",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/des-heurts-entre-supporters-auraient-fait-26-blesses-selon-un-bilan-officiel-controverse-cesar-gomez/1500000001615264/0:0,1997:1332-640-427-75/c43f2.jpg",
+      "publishedAt": "2022-03-08T23:17:00+00:00",
+      "content": "À l'issue de la réunion entre les propriétaires des clubs mexicains mardi soir, les premières sanctions ont été annoncées par la Fédération mexicaine de football (FMF) après les violents heurts lors … [+1835 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Jackson State Tigers football coach Deion Sanders says he had two toes amputated after medical setback",
+      "description": "Deion Sanders revealed in an episode of his \"Coach Prime\" documentary series that he had two toes on his left foot amputated because of blood clots stemming from a previous surgery.",
+      "url": "http://espn.go.com/college-football/story/_/id/33454182/jackson-state-tigers-football-coach-deion-sanders-says-had-two-toes-amputated-medical-setback",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0308%2Fr983611_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-03-08T18:40:00Z",
+      "content": "Deion Sanders had two toes on his left foot amputated because of blood clots stemming from a previous surgery.\r\nThe Jackson State head coach and NFL Hall of Famer revealed the severity of his foot in… [+978 chars]"
+    },
+   
+    {
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "PA Staff",
+      "title": "Rebecca Sellar hopes her story in amputee football can encourage others",
+      "description": "Scottish ground-breaker Rebecca Sellar hopes her story in amputee football can serve as a source of encouragement for others.",
+      "url": "https://www.fourfourtwo.com/news/rebecca-sellar-hopes-her-story-in-amputee-football-can-encourage-others-1646751000000",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iCdpLtNd6XJLRuUFJncoMC-1200-80.jpeg",
+      "publishedAt": "2022-03-08T14:50:00Z",
+      "content": "Scottish ground-breaker Rebecca Sellar hopes her story in amputee football can serve as a source of encouragement for others.\r\nThe 30-year-old was involved when the sport was trialled and launched in… [+3617 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Anthony Treash",
+      "title": "NFL free agency 2022 - Most overrated, underrated at every position, including Marcus Mariota, Calais Campbell, Randy Gregory",
+      "description": "Pro Football Focus goes through all 11 positions to evaluate the best and worst values who could get signed next week.",
+      "url": "http://espn.go.com/nfl/insider/story/_/id/33407129/nfl-free-agency-2022-most-overrated-underrated-every-position-including-marcus-mariota-calais-campbell-randy-gregory",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0304%2Fr981858_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-03-08T12:00:00Z",
+      "content": "Free agency is an important piece to the NFL team-building puzzle, giving organizations an opportunity to improve with instant-impact players before the 2022 NFL draft. Finding a crucial value in fre… [+14570 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
